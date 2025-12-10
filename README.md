@@ -1,4 +1,4 @@
-Phishing is a common cyber-attack where attackers trick users into visiting fraudulent websites to steal sensitive information. This project leverages machine learning algorithms to analyze features extracted from URLs (such as length, presence of special characters, use of HTTPS, domain age, etc.) and predict whether a given URL is safe or malicious. The system can be deployed as a web application, browser extension, or API.
+Phishing and Url is a common cyber-attack where attackers trick users into visiting fraudulent websites to steal sensitive information. This project leverages machine learning algorithms to analyze features extracted from URLs (such as length, presence of special characters, use of HTTPS, domain age, etc.) and predict whether a given URL is safe or malicious. The system can be deployed as a web application, browser extension, or API.
 
 *Outcome Obtained (Detailed)
 Accurate Phishing Detection Model:
